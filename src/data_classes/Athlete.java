@@ -1,3 +1,5 @@
+package data_classes;
+
 import java.io.Serializable;
 
 public class Athlete implements Serializable {

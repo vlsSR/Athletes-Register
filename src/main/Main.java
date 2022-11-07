@@ -1,3 +1,8 @@
+package main;
+
+import data_classes.Athlete;
+import file_tools.AddContent;
+
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Scanner;
